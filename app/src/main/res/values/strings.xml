@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MPS1</string>
+    <string name="yes">YES!</string>
+    <string name="no">NO!</string>
+    <string name="exit_app_dialog">You really want to quit?</string>
+    <string name="exit_app">Exit App</string>
+    <string name="go">GO!</string>
+    <string name="kill">KILL!</string>
+    <string name="explanation">Go-Btn startet Download von 5 Bilder aus dem Internet. Kill-Btn beendet die App.</string>
+</resources>
